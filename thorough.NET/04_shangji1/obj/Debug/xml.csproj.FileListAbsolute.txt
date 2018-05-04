@@ -1,0 +1,6 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\obj\Debug\xml.csprojResolveAssemblyReference.cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\bin\Debug\04_shangji1.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\bin\Debug\04_shangji1.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\bin\Debug\04_shangji1.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\obj\Debug\04_shangji1.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\04_shangji1\obj\Debug\04_shangji1.pdb

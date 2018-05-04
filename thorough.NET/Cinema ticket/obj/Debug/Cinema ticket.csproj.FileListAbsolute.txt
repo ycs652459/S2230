@@ -1,0 +1,8 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\bin\Debug\Cinema ticket.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\obj\Debug\Cinema_ticket.FrmMain.resources
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\obj\Debug\Cinema ticket.csproj.GenerateResource.Cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\obj\Debug\Cinema_ticket.Properties.Resources.resources
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\bin\Debug\Cinema ticket.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\bin\Debug\Cinema ticket.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\obj\Debug\Cinema ticket.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Cinema ticket\obj\Debug\Cinema ticket.pdb

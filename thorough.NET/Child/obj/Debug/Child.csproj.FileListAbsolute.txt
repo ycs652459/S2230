@@ -1,0 +1,5 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\Child\bin\Debug\Child.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\Child\bin\Debug\Child.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Child\bin\Debug\Child.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Child\obj\Debug\Child.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Child\obj\Debug\Child.pdb

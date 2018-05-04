@@ -1,0 +1,6 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\bin\Debug\chapter_1.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\bin\Debug\chapter_1.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\bin\Debug\chapter_1.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\obj\Debug\chapter_1.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\obj\Debug\chapter_1.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\chapter_1\obj\Debug\chapter_1.csprojResolveAssemblyReference.cache

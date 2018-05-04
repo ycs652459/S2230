@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BookName>
+  <book id ="001">
+    <book1>谁的青春不迷茫</book1>
+    <book2>一个人走</book2>
+  </book>
+  <book id ="002">
+    <book1>请尊重一个姑娘的努力</book1>
+    <book2>一个人走</book2>
+  </book>
+</BookName>

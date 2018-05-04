@@ -1,0 +1,8 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\bin\Debug\Computer test.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\bin\Debug\Computer test.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\bin\Debug\Computer test.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\obj\Debug\Computer_test.FrmMain.resources
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\obj\Debug\Computer_test.Properties.Resources.resources
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\obj\Debug\Computer test.csproj.GenerateResource.Cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\obj\Debug\Computer test.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Computer test\obj\Debug\Computer test.pdb

@@ -1,0 +1,7 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.Cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache

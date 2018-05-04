@@ -1,0 +1,6 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\bin\Debug\thorough.NETtype.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\bin\Debug\thorough.NETtype.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\bin\Debug\thorough.NETtype.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\obj\Debug\thorough.NETtype.csprojResolveAssemblyReference.cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\obj\Debug\thorough.NETtype.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\thorough.NETtype\obj\Debug\thorough.NETtype.pdb

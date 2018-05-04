@@ -1,0 +1,6 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\bin\Debug\序列化与反序列化.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\bin\Debug\序列化与反序列化.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\bin\Debug\序列化与反序列化.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\obj\Debug\序列化与反序列化.csprojResolveAssemblyReference.cache
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\obj\Debug\序列化与反序列化.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\序列化与反序列化\obj\Debug\序列化与反序列化.pdb

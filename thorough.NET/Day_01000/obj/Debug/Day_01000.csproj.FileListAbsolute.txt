@@ -1,0 +1,6 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\bin\Debug\Day_01000.exe.config
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\bin\Debug\Day_01000.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\bin\Debug\Day_01000.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\obj\Debug\Day_01000.exe
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\obj\Debug\Day_01000.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_01000\obj\Debug\Day_01000.csprojResolveAssemblyReference.cache

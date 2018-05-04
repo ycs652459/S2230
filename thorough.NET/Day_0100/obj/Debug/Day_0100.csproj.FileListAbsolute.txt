@@ -1,0 +1,4 @@
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_0100\bin\Debug\Day_0100.dll
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_0100\bin\Debug\Day_0100.pdb
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_0100\obj\Debug\Day_0100.dll
+E:\C#\thorough.NET AND C# programming\thorough.NET\Day_0100\obj\Debug\Day_0100.pdb
